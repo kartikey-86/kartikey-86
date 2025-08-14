@@ -1,39 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Welcome to My Data Analyst Portfolio 📊
 
-###
+Hi there! I'm Kartikey, an aspiring data analyst with hands-on experience in **Python**, **SQL**, and **Power BI**. This repository showcases my journey and projects as I explore the world of data analytics, turning raw information into actionable insights.
 
-<p align="left">My name is Kartikey Singh</p>
+## 🛠️ Core Skills & Tools
 
-###
+- **Python**: Data cleaning, transformation, and analysis using libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn.
+- **SQL**: Querying, aggregating, and manipulating data in relational databases. Proficient with MySQL and PostgreSQL.
+- **Power BI**: Building interactive dashboards and reports for data visualization and business intelligence.
+- **Excel**: Advanced spreadsheet analysis, pivot tables, and data visualization.
+- **Jupyter Notebook**: Interactive analysis and presentation of results.
+- **Git & GitHub**: Version control and collaboration for reproducible data projects.
 
-<h2 align="left">About me</h2>
+## 🚀 What You'll Find Here
 
-###
+- Real-world datasets and end-to-end analytics projects
+- Exploratory Data Analysis (EDA) workflows
+- Data cleaning, preprocessing, and feature engineering examples
+- SQL query samples and use-cases
+- Power BI dashboard screenshots and .pbix files
+- Python scripts and Jupyter notebooks for modeling & visualization
 
-<p align="left">I'm a detail-oriented and motivated data professional with a strong foundation in data analysis and visualization. After completing my BSc in Mathematical Science in 2017, I dedicated time to try and clear UPSC During this period, I also very interested in field of Data science and ML and  during this period, I focused on mastering the foundational tools of data science, including SQL, Python, and key visualization platforms.<br><br>I'm eager to apply my technical and analytical skills in an entry-level data analytics role to contribute to data-driven decision-making. You can explore my work in the repositories below, where I aim to demonstrate my problem-solving skills, attention to detail, and passion for continuous learning.</p>
+## 📈 My Mission
 
-###
+To bridge the gap between data and decision-making by leveraging modern analytics tools, and to continuously expand my skill set as a data professional.
 
-<h2 align="left">I code with</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
+Feel free to explore my projects, give feedback, or connect for collaboration!
